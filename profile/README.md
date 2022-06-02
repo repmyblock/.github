@@ -9,6 +9,8 @@ A good place to start getting acquainted with the code is fixing the bugs listed
 **Website**: It's the https://repmyblock.org website.<BR>
 **mobile_ios**: The various IOS applications.<BR>
 **mobile_android**: The various Android applications.
+ 
+The process is a little bit all over the place but if you can help, download the DevSetup disk and D/M me.
 
   **To understand the magnitude of the project, check out the video here:**<BR>
  
