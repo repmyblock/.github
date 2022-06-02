@@ -3,7 +3,7 @@
 Website to put an end to the Society of St. Tammany in New York City. In short, we want to remove money from politics lowering the cost of entry to almost zero.
 
 # Technology
-This is built using OpenData, and as much as possible Open Source and Free (as Freedom) Software.
+This is built using OpenData, and as much as possible Open Source and Free (as Freedom) Software. To get started, just follow the instructions here: 
 
 This project is broken up in various reposatories.
 
