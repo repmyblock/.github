@@ -1,10 +1,5 @@
 ## Hi there 👋
-
-
-
-This is the README for the whole reposatory.
-
-It's broken up in various reposatories.
+This project is broken up in various reposatories.
 
 DevSetup: Contain all the scripts to run the RepMyBlock system on your home machine. This is were the project starts. This is the place where to start download.
 
