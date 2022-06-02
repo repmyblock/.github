@@ -10,9 +10,10 @@ A good place to start getting acquainted with the code is fixing the bugs listed
 **mobile_ios**: The various IOS applications.<BR>
 **mobile_android**: The various Android applications.
 
-If you are here reading this, and before leaving, please check out this documentary: https://www.youtube.com/watch?v=_DVyS5m7dQs at https://www.gofundme.com/f/county-film
-  
+  *To understand the magnitude of the project, check out the video here:*
   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_DVyS5m7dQs/0.jpg)](https://www.youtube.com/watch?v=_DVyS5m7dQs)
+  
+You can read everything about the documentary on the filmmaker's GoFund me page: https://www.gofundme.com/f/county-film
   
 <!--
 
