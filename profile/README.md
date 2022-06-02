@@ -11,6 +11,7 @@ A good place to start getting acquainted with the code is fixing the bugs listed
 **mobile_android**: The various Android applications.
 
   **To understand the magnitude of the project, check out the video here:**<BR>
+ 
   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_DVyS5m7dQs/0.jpg)](https://www.youtube.com/watch?v=_DVyS5m7dQs)
   
 You can read everything about the documentary on the filmmaker's GoFund me page: https://www.gofundme.com/f/county-film
