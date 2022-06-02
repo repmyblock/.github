@@ -1,4 +1,13 @@
-## Hi there 👋
+  
+# RepMyBlock
+Website to put an end to the Society of St. Tammany in New York City.
+
+# History.
+Below is just historical rambling for non-technical folks to understand what we are trying to accomplish. In short, we want to remove money from politics lowering the cost of entry to almost zero.
+
+# Technology
+This is built using OpenData, and as much as possible Open Source and Free (as Freedom) Software.
+
 This project is broken up in various reposatories.
 
 **DevSetup**: Contains all the scripts to run the RepMyBlock system on your home machine. This is were the project starts. This is the place where to start download.
@@ -17,7 +26,28 @@ The process is a little bit all over the place but if you can help, download the
   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_DVyS5m7dQs/0.jpg)](https://www.youtube.com/watch?v=_DVyS5m7dQs)
   
 You can read everything about the documentary on the filmmaker's GoFund me page: https://www.gofundme.com/f/county-film
+
+
+If you know or wish to learn PHP, HTML, CSS, Swift, and start developing, go to the Wiki of the Dev Setup on how to configure the Virtual Machine environment. https://github.com/repmyblock/devsetup/wiki
+
+
+This is a video explaining the problem: https://youtu.be/KU8-lHctud8
   
+# Links to various explainers around the country.
+This is how the meeting goes around in about 3000 counties around the United States.<BR>
+https://www.youtube.com/channel/UCAJC7aGMPoVbPPBD1gvGb9g
+
+* https://dsa-la.org/committees/elpol/adems2021
+* https://repyourblock2020.org
+
+A photo gallery of the 2019 Manhattan Meeting.<BR>
+http://www.newyorktrue.com/photo-gallery-manhattan-dems-organize/
+
+
+
+https://github.com/osmlab/nycbuildings
+
+
 <!--
 
 **Here are some ideas to get you started:**
