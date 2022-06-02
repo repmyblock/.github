@@ -1,7 +1,7 @@
 ## Hi there 👋
 This project is broken up in various reposatories.
 
-**DevSetup**: Contain all the scripts to run the RepMyBlock system on your home machine. This is were the project starts. This is the place where to start download.
+**DevSetup**: Contains all the scripts to run the RepMyBlock system on your home machine. This is were the project starts. This is the place where to start download.
 
 A good place to start getting acquainted with the code is fixing the bugs listed here: https://trac.repmyblock.org/report/1
 
