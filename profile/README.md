@@ -5,11 +5,9 @@ This project is broken up in various reposatories.
 
 A good place to start getting acquainted with the code is fixing the bugs listed here: https://trac.repmyblock.org/report/1
 
-**Utilities**: Contains all the utilities needed to normalize the voter lists.
-
-**Website**: It's the https://repmyblock.org website.
-
-**mobile_ios**: The various IOS applications.
+**Utilities**: Contains all the utilities needed to normalize the voter lists.<BR>
+**Website**: It's the https://repmyblock.org website.<BR>
+**mobile_ios**: The various IOS applications.<BR>
 **mobile_android**: The various Android applications.
 
 
