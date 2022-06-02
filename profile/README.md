@@ -12,6 +12,7 @@ A good place to start getting acquainted with the code is fixing the bugs listed
 
 If you are here reading this, and before leaving, please check out this documentary: https://www.youtube.com/watch?v=_DVyS5m7dQs at https://www.gofundme.com/f/county-film
   
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_DVyS5m7dQs/0.jpg)](https://www.youtube.com/watch?v=_DVyS5m7dQs)
   
 <!--
 
