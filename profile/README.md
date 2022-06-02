@@ -1,9 +1,6 @@
   
 # RepMyBlock
-Website to put an end to the Society of St. Tammany in New York City.
-
-# History.
-Below is just historical rambling for non-technical folks to understand what we are trying to accomplish. In short, we want to remove money from politics lowering the cost of entry to almost zero.
+Website to put an end to the Society of St. Tammany in New York City. In short, we want to remove money from politics lowering the cost of entry to almost zero.
 
 # Technology
 This is built using OpenData, and as much as possible Open Source and Free (as Freedom) Software.
