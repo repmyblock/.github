@@ -40,7 +40,7 @@ https://www.youtube.com/channel/UCAJC7aGMPoVbPPBD1gvGb9g
 A photo gallery of the 2019 Manhattan Meeting.<BR>
 http://www.newyorktrue.com/photo-gallery-manhattan-dems-organize/
 
-# International Groups:
+# International Groups
 * Far-right nationalists - https://www.idgroup.eu
 * Eurosceptic conservatives - https://www.ecrgroup.eu
 * Centrist Democrat International - https://www.idc-cdi.com
