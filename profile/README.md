@@ -42,7 +42,7 @@ http://www.newyorktrue.com/photo-gallery-manhattan-dems-organize/
 
 # International Groups
 * Far-right nationalists - https://www.idgroup.eu
-* Eurosceptic conservatives - https://www.ecrgroup.eu
+* International Democrat Union - https://www.idu.org
 * Centrist Democrat International - https://www.idc-cdi.com
 * Liberals and centrists - https://liberal-international.org
 * Social democrats - https://socialistinternational.org
