@@ -45,7 +45,7 @@ http://www.newyorktrue.com/photo-gallery-manhattan-dems-organize/
 * Eurosceptic conservatives - https://www.ecrgroup.eu
 * Centrist Democrat International - https://www.idc-cdi.com
 * Liberals and centrists - https://liberal-international.org
-* Social democrats - https://socialistsinternational.org
+* Social democrats - https://socialistinternational.org
 * Greens and regionalists - https://globalgreens.org
 * Communists and socialists - http://www.solidnet.org
 * Socialists Alternative - https://internationalsocialist.net
