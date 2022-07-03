@@ -45,6 +45,7 @@ http://www.newyorktrue.com/photo-gallery-manhattan-dems-organize/
 * International Democrat Union - https://www.idu.org
 * Centrist Democrat International - https://www.idc-cdi.com
 * Liberals and centrists - https://liberal-international.org
+* Progressive Alliance - https://progressive-alliance.info
 * Social democrats and Socialists - https://socialistinternational.org
 * Greens and regionalists - https://globalgreens.org
 * Communists and Workers' parties - http://www.solidnet.org
