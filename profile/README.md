@@ -41,7 +41,7 @@ A photo gallery of the 2019 Manhattan Meeting.<BR>
 http://www.newyorktrue.com/photo-gallery-manhattan-dems-organize/
 
 # International Groups
-* Far-right nationalists - https://www.idgroup.eu (About)[https://www.idgroup.eu/about]
+* Far-right nationalists - https://www.idgroup.eu [About](https://www.idgroup.eu/about)
 * International Democrat Union - https://www.idu.org
 * Centrist Democrat International - https://www.idc-cdi.com
 * Liberals and centrists - https://liberal-international.org
