@@ -41,16 +41,16 @@ A photo gallery of the 2019 Manhattan Meeting.<BR>
 http://www.newyorktrue.com/photo-gallery-manhattan-dems-organize/
 
 # International Groups
-* Far-right nationalists - https://www.idgroup.eu [About](https://www.idgroup.eu/about)
-* International Democrat Union - https://www.idu.org
-* Centrist Democrat International - https://www.idc-cdi.com
-* Liberals and centrists - https://liberal-international.org
-* Progressive Alliance - https://progressive-alliance.info
-* Social democrats and Socialists - https://socialistinternational.org
-* Greens and regionalists - https://globalgreens.org
-* Communists and Workers' parties - http://www.solidnet.org
-* Socialists Alternative - https://internationalsocialist.net
-* Parti Pirate - https://pp-international.net
+* Far-right nationalists - https://www.idgroup.eu - Link to [About Page](https://www.idgroup.eu/about)
+* International Democrat Union - https://www.idu.org - Link to [About Page](https://www.idu.org/about/history)
+* Centrist Democrat International - https://www.idc-cdi.com - Link to [About Page](https://www.idc-cdi.com/history)
+* Liberals and centrists - https://liberal-international.org - Link to [About Page](https://liberal-international.org/who-we-are/our-mission)
+* Progressive Alliance - https://progressive-alliance.info - Link to [About Page](https://progressive-alliance.info/network/guiding-principles)
+* Social democrats and Socialists - https://socialistinternational.org - Link to [About Page](https://www.socialistinternational.org/about-us)
+* Greens and regionalists - https://globalgreens.org - Link to [About Page](https://globalgreens.org/about)
+* Communists and Workers' parties - http://www.solidnet.org - Link to [About Page](http://www.solidnet.org/meetings-and-statements/joint-statements)
+* Socialists Alternative - https://internationalsocialist.net - Link to [About Page](https://internationalsocialist.net/en/about)
+* Parti Pirate - https://pp-international.net - Link to [About Page](https://pp-international.net/about-ppi/general-assemblies)
 
 # Other ressources
 https://github.com/osmlab/nycbuildings
