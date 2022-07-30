@@ -48,6 +48,7 @@ http://www.newyorktrue.com/photo-gallery-manhattan-dems-organize/
 * Progressive Alliance - https://progressive-alliance.info - Link to [About Page](https://progressive-alliance.info/network/guiding-principles)
 * Social democrats and Socialists - https://socialistinternational.org - Link to [About Page](https://www.socialistinternational.org/about-us)
 * Greens and regionalists - https://globalgreens.org - Link to [About Page](https://globalgreens.org/about)
+* Progressive International - https://progressive.international - Link to [About Page](https://progressive.international/about/en)
 * Communists and Workers' parties - http://www.solidnet.org - Link to [About Page](http://www.solidnet.org/meetings-and-statements/joint-statements)
 * Socialists Alternative - https://internationalsocialist.net - Link to [About Page](https://internationalsocialist.net/en/about)
 * Pirates - https://pp-international.net - Link to [About Page](https://pp-international.net/about-ppi/general-assemblies)
