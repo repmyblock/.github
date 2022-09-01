@@ -43,7 +43,7 @@ http://www.newyorktrue.com/photo-gallery-manhattan-dems-organize/
 # International Groups
 * Far-right nationalists - https://www.idgroup.eu - Link to [About Page](https://www.idgroup.eu/about)
 * Democrat Union - https://www.idu.org - Link to [About Page](https://www.idu.org/about/history)
-* International Alliance of Libertarian Parties - https://ialp.com - LInk to [About Page](https://ialp.com/about-the-ialp/ialp-overview)
+* International Alliance of Libertarian Parties - https://ialp.com - Link to [About Page](https://ialp.com/about-the-ialp/ialp-overview)
 * Centrist Democrat - https://www.idc-cdi.com - Link to [About Page](https://www.idc-cdi.com/history)
 * Liberals and centrists - https://liberal-international.org - Link to [About Page](https://liberal-international.org/who-we-are/our-mission)
 * Progressive Alliance - https://progressive-alliance.info - Link to [About Page](https://progressive-alliance.info/network/guiding-principles)
