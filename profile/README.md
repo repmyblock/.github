@@ -24,6 +24,8 @@ The process is a little bit all over the place but if you can help, download the
   
 You can read everything about the documentary on the filmmaker's GoFund me page: https://www.gofundme.com/f/county-film
 
+You can watch the whole documentary on the Rep My Block website: https://www.repmyblock.org/web/exp/register/movie
+
 
 If you know or wish to learn PHP, HTML, CSS, Swift, and start developing, go to the Wiki of the Dev Setup on how to configure the Virtual Machine environment. https://github.com/repmyblock/devsetup/wiki
 
