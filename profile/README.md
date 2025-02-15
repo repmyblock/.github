@@ -19,10 +19,12 @@ A good place to start getting acquainted with the code is fixing the bugs listed
 The process is a little bit all over the place but if you can help, download the DevSetup disk and D/M me.
 
   **To understand the magnitude of the project, check out the video here:**<BR>
- 
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_DVyS5m7dQs/0.jpg)](https://www.youtube.com/watch?v=_DVyS5m7dQs)
 
-**You can watch the whole documentary on the Rep My Block website: [https://www.repmyblock.org/web/exp/register/movie](https://www.repmyblock.org/documentary/)**
+https://www.pbs.org/video/county-kigzrj/
+ 
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_DVyS5m7dQs/0.jpg)]([https://www.youtube.com/watch?v=_DVyS5m7dQs](https://www.pbs.org/video/county-kigzrj/))
+
+**You can watch the whole documentary on PBS: [[[[https://www.repmyblock.org/web/exp/register/movie](https://www.pbs.org/video/county-kigzrj/)](https://www.pbs.org/video/county-kigzrj/)](https://www.pbs.org/video/county-kigzrj/)](https://www.repmyblock.org/documentary/)**
 
 
 If you know or wish to learn PHP, HTML, CSS, Swift, and start developing, go to the Wiki of the Dev Setup on how to configure the Virtual Machine environment. https://github.com/repmyblock/devsetup/wiki
