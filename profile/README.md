@@ -20,6 +20,8 @@ The process is a little bit all over the place but if you can help, download the
 
 **You can watch the whole documentary on PBS: https://www.pbs.org/video/county-kigzrj**
 
+![image](https://github.com/user-attachments/assets/5f2d24e8-a5c9-4772-9de8-1007385e7dce)
+
 
 If you know or wish to learn PHP, HTML, CSS, Swift, and start developing, go to the Wiki of the Dev Setup on how to configure the Virtual Machine environment. https://github.com/repmyblock/devsetup/wiki
 
