@@ -18,7 +18,7 @@ A good place to start getting acquainted with the code is fixing the bugs listed
  
 The process is a little bit all over the place but if you can help, download the DevSetup disk and D/M me.
 
-**You can watch the whole documentary on PBS: (https://www.pbs.org/video/county-kigzrj/)](https://www.repmyblock.org/documentary/)**
+**You can watch the whole documentary on PBS: https://www.pbs.org/video/county-kigzrj**
 
 
 If you know or wish to learn PHP, HTML, CSS, Swift, and start developing, go to the Wiki of the Dev Setup on how to configure the Virtual Machine environment. https://github.com/repmyblock/devsetup/wiki
